@@ -1,0 +1,28 @@
+{
+  "case_id": "900-01-0001",
+  "intake": {
+    "ssn": "900-01-0001",
+    "full_name": "Priya Shah",
+    "age": 31,
+    "occupation": "librarian",
+    "coverage_type": "renters",
+    "coverage_amount": 75000,
+    "state": "Vermont",
+    "household": "single",
+    "notes": "No prior claims. Non-smoker."
+  },
+  "enrichment": {
+    "ssn": "900-01-0001",
+    "bureau": {
+      "found": true,
+      "prior_claims": 0,
+      "credit_band": "excellent",
+      "occupation_class": "low",
+      "flood_zone": false
+    },
+    "summary": "Priya Shah, a 31-year-old librarian in Vermont, is applying for renters insurance with a coverage amount of $75,000. She is a non-smoker with no prior claims and an excellent credit score. Her occupation is classified as low-risk, and her property is not in a flood zone.",
+    "red_flags": [],
+    "missing_fields": [],
+    "risk_notes": "No significant risk factors identified. Applicant has a clean claims history, excellent credit, and is in a low-risk occupation. Property is not in a flood zone."
+  }
+}

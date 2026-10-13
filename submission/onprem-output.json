@@ -1,0 +1,18 @@
+{
+  "score": 20,
+  "band": "low",
+  "factors": [
+    "No prior claims",
+    "Excellent credit",
+    "Low-risk occupation",
+    "Non-smoker",
+    "Not in flood zone"
+  ],
+  "llm_score": 15,
+  "llm_band": "low",
+  "deterministic_score": 20,
+  "deterministic_band": "low",
+  "agreed": true,
+  "prompt_tokens": 368,
+  "completion_tokens": 48
+}
